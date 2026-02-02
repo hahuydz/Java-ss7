@@ -1,4 +1,4 @@
-public class PTIT_CNTT2_IT203_SS7_Bai4 {
+public class PTIT_CNTT3_IT203_SS7_Bai4 {
     public static class ClassRoom {
 
         private String studentName;
@@ -44,3 +44,4 @@ public class PTIT_CNTT2_IT203_SS7_Bai4 {
         }
     }
 }
+
