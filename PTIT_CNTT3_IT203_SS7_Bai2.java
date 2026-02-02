@@ -1,4 +1,4 @@
-public class PTIT_CNTT2_IT203_SS7_Bai2 {
+public class PTIT_CNTT3_IT203_SS7_Bai2 {
     public static void main(String[] args) {
         // --- PHẦN 1: BIẾN NGUYÊN THỦY (PRIMITIVE) ---
         int a = 10;
@@ -27,3 +27,4 @@ public class PTIT_CNTT2_IT203_SS7_Bai2 {
         public String getName() { return name; }
     }
 }
+
