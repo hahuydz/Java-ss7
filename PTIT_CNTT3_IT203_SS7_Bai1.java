@@ -1,4 +1,4 @@
-public class PTIT_CNTT2_IT203_SS7_Bai1 {
+public class PTIT_CNTT3_IT203_SS7_Bai1 {
     public class Student {
 
         private String studentId;
@@ -41,3 +41,4 @@ public class PTIT_CNTT2_IT203_SS7_Bai1 {
 
 
 }
+
