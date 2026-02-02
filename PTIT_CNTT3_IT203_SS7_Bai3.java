@@ -1,4 +1,4 @@
-public class PTIT_CNTT2_IT203_SS7_Bai3 {
+public class PTIT_CNTT3_IT203_SS7_Bai3 {
     public class ScoreUtils {
 
         // Phương thức static: Kiểm tra điểm đạt hay không (Giả sử đạt là từ 5.0 trở lên)
@@ -43,3 +43,4 @@ public class PTIT_CNTT2_IT203_SS7_Bai3 {
         }
     }
 }
+
