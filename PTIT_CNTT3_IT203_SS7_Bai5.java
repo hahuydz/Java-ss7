@@ -1,4 +1,4 @@
-public class PTIT_CNTT2_IT203_SS7_Bai5 {
+public class PTIT_CNTT3_IT203_SS7_Bai5 {
     public class Config {
 
         public static final double MAX_SCORE = 10.0;
@@ -27,3 +27,4 @@ public class PTIT_CNTT2_IT203_SS7_Bai5 {
         }
     }
 }
+
