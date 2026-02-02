@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class PTIT_CNTT2_IT203_SS7_Bai6 {
+public class PTIT_CNTT3_IT203_SS7_Bai6 {
     public static class User {
 
         private final int id;
@@ -62,3 +62,4 @@ public class PTIT_CNTT2_IT203_SS7_Bai6 {
         }
     }
 }
+
